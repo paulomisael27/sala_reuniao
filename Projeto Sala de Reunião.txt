@@ -1,0 +1,14 @@
+**Projeto Sala de Reunião**
+
+1.1 - Planejamento:
+1.2 - Configuração do Ambiente:
+1.3 - Criação do Projeto Django:
+1.4 - Modelagem de Dados:
+1.5 - Criação de Views e URLs:
+1.6 - Templates e Front:
+1.7 - Implementação de Lógica de Negócios:
+1.8 - Autenticação e Autorização:
+1.9 - Testes:
+2.0 - Documentação:
+2.1 - Implantação do Projeto:
+2.2 -  Manutenção e Acompanhamento:
